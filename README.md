@@ -5,6 +5,10 @@ A simple python script to mass rename files, with a randomly generated UUIDv4, w
 - OS
 - uuid
 
+```bash
+pip install uuid
+```
+
 ## Installation
 ```bash
 pip install uuid
